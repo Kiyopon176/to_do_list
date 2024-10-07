@@ -1,16 +1,16 @@
-# to_do_list
+# To-Do List App
 
-A new Flutter project.
+A simple Flutter app for managing tasks. Add, complete, and delete tasks, with data saved locally using `SharedPreferences` for persistence.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Add tasks**
+- **Mark tasks as completed**
+- **Delete tasks**
+- **Data persists between sessions**
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repo: `git clone https://github.com/yourusername/todo-list-app.git`
+2. Install dependencies: `flutter pub get`
+3. Run the app: `flutter run`
